@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Services-Club-Multan-1024x683.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Services-Club-Multan-1024x683@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Services-Club-Multan-1024x683@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
